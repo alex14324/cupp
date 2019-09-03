@@ -1,5 +1,5 @@
 # CUPP - Common User Passwords Profiler
-/)
+
 
  
 ## About
